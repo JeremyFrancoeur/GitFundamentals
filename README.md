@@ -9,4 +9,4 @@ Here is a growing collection of resouces and helpful commands to know when worki
 
 - [git init](./Commands/Init.md)
 
--[git add](./commands/Add.md)
+- [git add](./commands/Add.md)
